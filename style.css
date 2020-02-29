@@ -3,8 +3,9 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:600&display=swap');
 
 #top-left-list {
-    padding-top: 35px;
+    padding-top: 0px;
     list-style-type: none;
+    position: absolute;
 }
 #top-left-list li {
     float: left;
@@ -15,8 +16,9 @@
 }
 
 #top-right-list {
-    padding-top: -10px;
+    padding-top: 15px;
     list-style-type: none;
+    
     
 }
 #top-right-list li {
@@ -68,8 +70,8 @@ ul li button {
 #search-icon {
     width: 20px;
     position: absolute;
-    padding-top: 17.6em;
-    padding-left: 32em;
+    padding-top: 17.8em;
+    padding-left: 42em;
     z-index: 1;
 }
 #google-search-button {
@@ -107,7 +109,39 @@ ul li button {
     padding-left: 62em;
 
 }
-    
+/*h3 {
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: 300;
+}
+#advertising {
+    position: absolute;
+    padding-top: 20.5em;
+    padding-left: 1em;
+}
+#business {
+    position: absolute;
+    padding-top: 20.5em;
+    padding-left: 9em;
+}
+#about {
+    position: absolute;
+    padding-top: 20.5em;
+    padding-left: 16em;
+}
+#how-search-works {
+    position: absolute;
+    padding-top: 20.5em;
+    padding-left: 21em;
+}
+ .rectangle {
+     height: 50px;
+     width: 100px;
+     background-color: #555;
+     position:absolute;
+     
+ }
+    */
     
     
     
